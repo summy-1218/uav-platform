@@ -1,0 +1,58 @@
+[
+  {
+    "manufacturer": "北京航空航天大学飞行学院T01小组",
+    "type": "Fixed-Wing",
+    "image_url": "玄峰无人僚机.png",
+    "description": "一款具备高速、远航程、大载荷能力的无人僚机，定位为\"弹药延伸臂 + 远程空战先锋\"，采用正常式气动布局，配备涡扇15发动机，具备自主任务管理能力。",
+    "length_m": 15.463,
+    "wingspan_m": 8.2179,
+    "height_m": 0.0,
+    "mtow_kg": 13479.0,
+    "empty_weight_kg": 8314.0,
+    "max_payload_kg": 2000.0,
+    "max_speed_kmh": 0.0,
+    "cruise_speed_kmh": 0.0,
+    "ceiling_m": 22000,
+    "range_km": 3100.0,
+    "endurance_min": 60,
+    "purpose": [
+      "远距离打击",
+      "协同作战"
+    ],
+    "id": "uav-1768356460",
+    "custom_params": {
+      "翼载荷": {
+        "value": 300.0,
+        "unit": "kg/m2"
+      },
+      "推重比": {
+        "value": 1.2,
+        "unit": "无量纲"
+      }
+    },
+    "name": "玄峰无人僚机"
+  },
+  {
+    "manufacturer": "诺斯罗普·格鲁曼（Northrop Grumman）",
+    "type": "Fixed-Wing",
+    "image_url": "RQ-4.jpg",
+    "description": "全球鹰是目前世界上最先进的无人机之一，具有从敌占区域昼夜全天候不间断提供数据和反应的能力，主要用于战略侦察和监视任务。机上载有合成孔径雷达、电视摄像机、红外探测器三种侦察设备，以及防御性电子对抗装备和数字通信设备。",
+    "length_m": 14.5,
+    "wingspan_m": 39.9,
+    "height_m": 4.7,
+    "mtow_kg": 14628.0,
+    "empty_weight_kg": null,
+    "max_payload_kg": 826.0,
+    "max_speed_kmh": 740.0,
+    "cruise_speed_kmh": 635.0,
+    "ceiling_m": 18000,
+    "range_km": 26000.0,
+    "endurance_min": 42,
+    "purpose": [
+      "主要用于情报、监视和侦察（ISR）任务，执行广域海上侦察、提升海洋态势感知能力等。"
+    ],
+    "id": "uav-1768358401",
+    "custom_params": null,
+    "name": "RQ-4 \"Global Hawk\"（全球鹰）"
+  }
+]

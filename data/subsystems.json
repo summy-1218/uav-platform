@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Example Motor",
+    "manufacturer": "Company B",
+    "category": "Engine/Power",
+    "image_url": null,
+    "description": "High power motor",
+    "key_specs": "{\"Power\": \"500W\", \"Weight\": \"200g\"}"
+  }
+]
